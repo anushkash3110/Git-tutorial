@@ -1,4 +1,4 @@
 # Git-tutorial
 First repository
 <br>
-Author - Anushka Sharma
+Author - Anushka Sharma (A second year student)
